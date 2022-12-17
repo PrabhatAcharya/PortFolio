@@ -1,0 +1,16 @@
+.head{
+    font-size: 2em;
+}
+
+
+@media only screen and (max-width: 600px){
+    .home-about-body{
+        font-size: 1.2em !important ;
+    }
+    
+    .head{
+        font-size: 1.7em;
+        margin-bottom: -1em;
+    }
+    
+}
