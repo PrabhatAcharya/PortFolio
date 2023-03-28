@@ -1,2 +1,2 @@
 My portfolio using React,
-website link: https://prabhatacharya-portfolio.netlify.app/
+website link: https://portfolio-prabhat.netlify.app/
