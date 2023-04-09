@@ -1,5 +1,17 @@
 export const projects = [
   {
+    title: "Blogging App",
+    subtitle: "TECH STACK: JavaScript(ES6) | REACT | REDUX | MONGODB | MUI ",
+    description:
+      "Explore the world of blogging!! Join our community of bloggers and share your ideas with the world.",
+    responsibility:
+      " Developed entire Project solely using MERN stack and deployed it on cloud",
+    team: "An Individual project, completed in 3 days.",
+    image: "./blog.png",
+    gitlink: "https://github.com/PrabhatAcharya/MERN-BLOG-APP",
+    link: "https://blogapp-prabhat.netlify.app/",
+  },
+  {
     title: "Myntra Website",
     subtitle: "TECH STACK: HTML | CSS | JavaScript(ES6) | JSON Server",
     description:
@@ -13,8 +25,7 @@ export const projects = [
   },
   {
     title: "Beauty Bebo Website",
-    subtitle:
-      "TECH STACK: HTML | CSS | JavaScript | Local Storage",
+    subtitle: "TECH STACK: HTML | CSS | JavaScript | Local Storage",
     description:
       "Beauty Bebo is India’s fastest growing online retail store for the day to day and special occasion need of the Makeup, Skin care, Hair care, Personal care, Mom and Baby care, Fragrance and Ayurveda products.",
     responsibility:
@@ -24,6 +35,4 @@ export const projects = [
     gitlink: "https://github.com/harshita0802goswami/Beauty-bebo/tree/Prabhat",
     link: "https://beauty-beboclone.netlify.app/",
   },
- 
-  
 ];

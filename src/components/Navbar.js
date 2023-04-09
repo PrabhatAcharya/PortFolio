@@ -9,11 +9,11 @@ export default function Navbar() {
       <div className="container mx-auto flex flex-wrap p-4 flex-col md:flex-row items-center">
         <a className="title-font font-medium text-white mb-3 md:mb-0">
           <a href="/#home" className="ml-3 text-xl pacifico">
-        <h2 style={{color:"#00FFFF"}}>  𝓟𝓻𝓪𝓫𝓱𝓪𝓽 𝓚𝓾𝓶𝓪𝓻 𝓐𝓬𝓱𝓪𝓻𝔂𝓪</h2>
+            <h2 style={{ color: "#00FFFF" }}>ℙ𝕣𝕒𝕓𝕙𝕒𝕥 𝕂𝕦𝕞𝕒𝕣 𝔸𝕔𝕙𝕒𝕣𝕪𝕒</h2>
           </a>
         </a>
         <nav className="cool-link md:mr-auto md:ml-6 md:py-4 md:pl-4 md:border-l md:border-gray-700	flex flex-wrap items-center text-base justify-center">
-        <a href="/#about" className="mr-5 hover:text-white">
+          <a href="/#about" className="mr-5 hover:text-white">
             About Me
           </a>
           <a href="/#Skills" className="mr-5 hover:text-white">
@@ -28,7 +28,8 @@ export default function Navbar() {
         </nav>
         <a
           href="/#contact"
-          className="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0">
+          className="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0"
+        >
           Hire Me
           <ArrowRightIcon className="w-4 h-4 ml-1" />
         </a>

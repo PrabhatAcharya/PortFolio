@@ -48,7 +48,7 @@ export default function About() {
 
           <div className="flex justify-center mt-14" data-aos="fade-up">
             <a
-              href="https://drive.google.com/file/d/1PZGDLSmCjZ47-VIonxDq3mz-NxdACVOn/view?usp=share_link"
+              href="https://drive.google.com/file/d/1yig6uZ3FMmPmj-M6ZkQWcwPNhPvCUneb/view?usp=share_link"
               target="_blank"
               className="inline-flex text-white bg-green-500 border-0 py-3 px-6 focus:outline-none hover:bg-green-600 rounded text-lg"
             >
