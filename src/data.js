@@ -2,7 +2,7 @@ export const projects = [
   {
     title: "Movie Booking App",
     subtitle:
-      "TECH STACK: JavaScript(ES6) | REACT |REDUX TOOLKIT | MONGODB | MUI ",
+      "TECH STACK: JavaScript(ES6) | REACT |REDUX TOOLKIT |Node js |Express js| MONGODB | MUI ",
     description:
       "Its a movie ticket booking app, with user and admin signup, signin functionality.Admin can add  movie and delete ,whereas user only book the movies",
     responsibility:
@@ -14,7 +14,8 @@ export const projects = [
   },
   {
     title: "Blogging App",
-    subtitle: "TECH STACK: JavaScript(ES6) | REACT | REDUX | MONGODB | MUI ",
+    subtitle:
+      "TECH STACK: JavaScript(ES6) | REACT | REDUX |Node.js |Express.js| MONGODB | MUI ",
     description:
       "Explore the world of blogging!! Join our community of bloggers and share your ideas with the world.",
     responsibility:
