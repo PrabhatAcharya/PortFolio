@@ -1,5 +1,18 @@
 export const projects = [
   {
+    title: "Movie Booking App",
+    subtitle:
+      "TECH STACK: JavaScript(ES6) | REACT |REDUX TOOLKIT | MONGODB | MUI ",
+    description:
+      "Its a movie ticket booking app, with user and admin signup, signin functionality.Admin can add  movie and delete ,whereas user only book the movies",
+    responsibility:
+      " Developed entire Project solely using MERN stack and deployed it on cloud",
+    team: "An Individual project, completed in 5 days.",
+    image: "./movie.png",
+    gitlink: "https://github.com/PrabhatAcharya/MoviesBookingApp",
+    link: "https://moviebookingapp-prabhat.netlify.app/",
+  },
+  {
     title: "Blogging App",
     subtitle: "TECH STACK: JavaScript(ES6) | REACT | REDUX | MONGODB | MUI ",
     description:
